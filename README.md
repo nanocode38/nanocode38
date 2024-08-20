@@ -1,7 +1,6 @@
 ![](assets/Bottom_up.svg)
-<p>
-nanocode38
-</p>
+# Weclome to my profile!
+<p>nanocode38</p>
 <p align="left">
 <a target="blank"><img align="center" src="./src/Avatar.jpg" alt="nanocode38" height="90" width="90" /></a>
 <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
@@ -30,7 +29,7 @@ nanocode38
 
 <!--   skyline  3D  -->
 <a href="https://skyline.github.com/BEPb/2022"><img src="./assets/Web.gif" alt="" width="auto" height="auto" /></a>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 <!--   my-skils -->
 
 | Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
@@ -41,8 +40,31 @@ nanocode38
 | **Machine Learning / Deep Learning frameworks** | ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=ChatGPT)&nbsp; ![OpenCV](https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV)&nbsp; |
 
 
+## 📎 About me:
 
-**📫 How to Reach me:**
+| Property    | Data                                       |
+|-------------|--------------------------------------------|
+| **Name:**     | nanocode38                                 |
+| **Age:**        | 13                                         |
+| **Gender:**     | ♂                                          |   
+| **Email:**      | 2602422835@qq.com (nanocode24@outlook.com) |
+| **Phone:**      | +86 15867244980 (+86 18258770302)          |
+| **WeChat:**     | nanocode38   (Nickname: nanocode38)        |
+| **QQ:**         | 2602422835                                 |
+| **GitHub:**     | [https://github.com/nanocode38](https://github.com/nanocode38)|
+| **Address:**    | Ningbo, Zhejiang, China                    |
+| **Pet Phrase:** | 没有, 荣耀!, Glory!, 为了梅林的荣耀!, 我丢!, 卧艹! |
+| **Learned language:** | Chinese(perfection), Python(perfection), C++(proficiency), English(proficiency), JavaScript / TypeScript(grasp), C#(understand), PowerShell(understand), Bash(understand), HTML/CSS(understand)|
+| **Hobbies:**    | Listening to English songs, Listening to absolute music, Reading science fiction, Learn all about the computer things, Coding, Play Basketball|
+| **Motto:**      | <Too much !>|
+| **Favourit Color:** | deep purple(#9400D3), light orange(#FFA500), Klein Blue(#002FA7), black and light red(#000000 and #FF0000) |
+| **Favourit Number:**| 3, 33, 333, 3333, 50288, 333333, π(PI), i, φ(fai, golden ratio)|
+| **Favourit Plane Figure:** | ◣(right triangle) |
+| **Favourite Formula:**| $e^{i\pi} + 1 = 0$,  $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$|
+| **Profile:** | A lazy, science-fiction-loving junior saltwater programmer dreams of becoming a middle saltwater|
+
+
+## 📫 How to Reach me:
 <p align="left">
 <a href="https://2602422835@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/nanocode38/nanocode38/master/assets/gmail.svg" alt="nanocode38" height="30" width="30" /></a>
 

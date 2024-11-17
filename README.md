@@ -47,13 +47,13 @@
 | **Name:**     | nanocode38                                 |
 | **Age:**        | 13                                         |
 | **Gender:**     | ♂                                          |   
-| **Email:**      | 2602422835@qq.com (nanocode24@outlook.com) |
+| **Email:**      | nanocode38@88.com  |
 | **Phone:**      | +86 15867244980 (+86 18258770302)          |
 | **WeChat:**     | nanocode38   (Nickname: nanocode38)        |
 | **QQ:**         | 2602422835                                 |
 | **GitHub:**     | [https://github.com/nanocode38](https://github.com/nanocode38)|
 | **Address:**    | Ningbo, Zhejiang, China                    |
-| **Pet Phrase:** | 没有, 荣耀!, Glory!, 为了梅林的荣耀!, 我丢!, 卧艹! |
+| **Pet Phrase:** | 没有, 荣耀!, Glory!, 为了梅林的荣耀!, 我丢!, 卧艹! |    
 | **Learned language:** | Chinese(perfection), Python(perfection), C++(proficiency), English(proficiency), JavaScript / TypeScript(grasp), C#(understand), PowerShell(understand), Bash(understand), HTML/CSS(understand)|
 | **Hobbies:**    | Listening to English songs, Listening to absolute music, Reading science fiction, Learn all about the computer things, Coding, Play Basketball|
 | **Motto:**      | <Too much !>|

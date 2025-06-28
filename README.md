@@ -2,8 +2,7 @@
 # Weclome to my profile!
 <p>nanocode38</p>
 <p align="left">
-<a target="blank"><img align="center" src="./src/Avatar.jpg" alt="nanocode38" height="90" width="90" /></a>
-<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
+<a target="blank"><img align="center" src="/src/Avatar.jpg" alt="nanocode38" height="90" width="90" /></a>
 <p>
 </p>
 
@@ -11,7 +10,7 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/nanocode38/nanocode38"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.13-FF1493.svg"></a>
     <a href="https://github.com/nanocode38/nanocode38/graphs/contributors"><img src="https://img.shields.io/github/contributors/nanocode38/nanocode38?color=red"></a>
     <a href="https://github.com/nanocode38/nanocode38/stargazers"><img src="https://img.shields.io/github/stars/nanocode38/nanocode38.svg?logo=github"></a>
     <a href="https://github.com/nanocode38/nanocode38/network/members"><img src="https://img.shields.io/github/forks/nanocode38/nanocode38.svg?color=blue&logo=github"></a>
@@ -24,7 +23,7 @@
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+nanocode38;+I+am+a+13-year-old+boy.;+Welcome+to+My+Profile!;+Over+5+years+of+programming+experience;Always+learning+new+things+;Python+learning+enthusiast;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+nanocode38;+I+am+a+14-year-old+boy.;+Welcome+to+My+Profile!;+Over+6+years+of+programming+experience;Always+learning+new+things+;Python+learning+enthusiast;)](https://git.io/typing-svg)
 
 
 <!--   skyline  3D  -->
@@ -45,7 +44,7 @@
 | Property    | Data                                       |
 |-------------|--------------------------------------------|
 | **Name:**     | nanocode38                                 |
-| **Age:**        | 13                                         |
+| **Age:**        |                                          |
 | **Gender:**     | ♂                                          |   
 | **Email:**      | nanocode38@88.com  |
 | **Phone:**      | +86 15867244980 (+86 18258770302)          |
